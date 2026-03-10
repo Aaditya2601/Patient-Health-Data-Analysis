@@ -1,20 +1,20 @@
 # Patient-Health-Data-Analysis
 This Project provides an analysis of hospital visit records of 51,000 patients, highlighting demographic trends, health conditions, medications, and other healthcare utilization patterns. It offers insights into patient distributions across genders, age groups, and medical conditions.
 # Dataset Overview
-Patient_ID: Unique identifier for each patient.  
-Age: Age of the patient in years (18-89).  
-Gender: The gender of the patient (Male, Female, Other).  
-Blood_Pressure_Systolic/Diastolic: Blood pressure measurements in mmHg.  
-Heart_Rate: Heart rate in beats per minute (BPM).  
-Cholesterol_Level: Cholesterol levels in mg/dL.  
-Medical_Conditions: Common medical conditions such as Diabetes, Hypertension, Asthma, or None.  
-Medications: Types of medication, including Metformin, Lisinopril, Statins, or None.  
-Visit_Date: Date of the most recent medical visit within the current year.  
-Diagnosis: Type of medical diagnosis (Routine Check, Infection, Emergency, Follow-up).  
-Hospital_Visits_Past_Year: The number of hospital visits in the past year (0-9).  
-BMI: Body Mass Index (18.5 to 35).  
-Smoker_Status: Whether the patient is a smoker (Yes/No).  
-Physical_Activity_Level: The patient's physical activity level (Sedentary, Moderate, Active).  
+* Patient_ID: Unique identifier for each patient.  
+* Age: Age of the patient in years (18-89).  
+* Gender: The gender of the patient (Male, Female, Other).  
+* Blood_Pressure_Systolic/Diastolic: Blood pressure measurements in mmHg.  
+* Heart_Rate: Heart rate in beats per minute (BPM).  
+* Cholesterol_Level: Cholesterol levels in mg/dL.  
+* Medical_Conditions: Common medical conditions such as Diabetes, Hypertension, Asthma, or None.  
+* Medications: Types of medication, including Metformin, Lisinopril, Statins, or None.  
+* Visit_Date: Date of the most recent medical visit within the current year.  
+* Diagnosis: Type of medical diagnosis (Routine Check, Infection, Emergency, Follow-up).  
+* Hospital_Visits_Past_Year: The number of hospital visits in the past year (0-9).  
+* BMI: Body Mass Index (18.5 to 35).  
+* Smoker_Status: Whether the patient is a smoker (Yes/No).  
+* Physical_Activity_Level: The patient's physical activity level (Sedentary, Moderate, Active).  
 # Tools and Technologies
 ## Programming Language 
 * Python

@@ -8,7 +8,7 @@ This Project provides an analysis of hospital visit records of 51,000 patients, 
 * Heart_Rate: Heart rate in beats per minute (BPM).  
 * Cholesterol_Level: Cholesterol levels in mg/dL.  
 * Medical_Conditions: Common medical conditions such as Diabetes, Hypertension, Asthma, or None.  
-* Medications: Types of medication, including Metformin, Lisinopril, Statins, or None.  
+* Medications: Types of medication, including Metformin, Lisinopril, Statins or None.  
 * Visit_Date: Date of the most recent medical visit within the current year.  
 * Diagnosis: Type of medical diagnosis (Routine Check, Infection, Emergency, Follow-up).  
 * Hospital_Visits_Past_Year: The number of hospital visits in the past year (0-9).  
